@@ -14,7 +14,7 @@ export const personalData = {
   location: "Warangal, Telangana, India",
   email: "bajjuriakshith2006@gmail.com",
   phone: "+91 8247801903",
-  resumePath: "/Bajjuri_Akshith_Resume.pdf",
+  resumePath: "./Bajjuri_Akshith_Resume.pdf",
   resumeFileName: "Bajjuri_Akshith_Resume.pdf",
   heroBio: "Cybersecurity-focused CSE student with hands-on learning experience in network security, penetration testing tools, web technologies, programming, and machine learning-based security projects.",
   aboutBio: [
@@ -32,10 +32,10 @@ export const personalData = {
   // Social links - Replace placeholders with actual URLs when available
   socials: {
     github: {
-      url: "https://github.com/placeholder-akshith", // REPLACE WITH YOUR ACTUAL GITHUB URL
+      url: "https://github.com/akky1718-sudo",
       label: "GitHub",
-      isPlaceholder: true,
-      username: "github.com/akshith",
+      isPlaceholder: false,
+      username: "github.com/akky1718-sudo",
     },
     linkedin: {
       url: "https://linkedin.com/in/placeholder-akshith", // REPLACE WITH YOUR ACTUAL LINKEDIN URL
